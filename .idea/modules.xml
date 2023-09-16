@@ -5,4 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/InputOutput1.iml" filepath="$PROJECT_DIR$/InputOutput1.iml" />
     </modules>
   </component>
+<groupId>org.junit.jupiter</groupId>
+<artifactId>junit-jupiter-api</artifactId>
+<version>5.10.0</version>
+<scope>test</scope>
 </project>
